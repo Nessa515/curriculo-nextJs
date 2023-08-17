@@ -1,0 +1,14 @@
+.info h3{
+    font-size: 24px;
+    font-family: sans-serif, 'Quicksand';
+    margin-left: 320px;
+    margin-top: 50px;
+}
+
+.info p{
+    font-size: 14px;
+    font-family: sans-serif, 'Quicksand';
+    margin-left: 320px;
+    margin-top: 20px;
+    width: 1200px;
+}
