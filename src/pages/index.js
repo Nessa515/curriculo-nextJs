@@ -5,6 +5,7 @@ import styles from '@/styles/Home.module.css'
 import Cabecalho from '@/components/Cabecalho'
 import Banner from '@/components/Banner'
 import Formacao from '@/components/Formacao'
+import Galeria from '@/components/Galeria'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -14,6 +15,7 @@ export default function Home() {
       <Cabecalho />
       <Banner />
       <Formacao />
+      <Galeria />
     </>
   )
 }
