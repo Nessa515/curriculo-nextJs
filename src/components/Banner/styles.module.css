@@ -1,0 +1,41 @@
+.banner .imagem{
+    width: 1905px;
+    display: inline-block;
+    position: relative;
+    opacity: 0.5;
+}
+
+.banner .fundo{
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    width: 1905px;
+}
+
+.banner h3{
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif, 'Quicksand';
+    position: absolute;
+    top: 360px;
+    right: 800px;
+}
+
+.banner .foto img{
+    position: absolute;
+    top: 180px;
+    right: 930px;
+    width: 127px;
+    height: 127px;
+    border-radius: 100px;
+}
+
+.banner .logo{
+    position: absolute;
+    top: 480px;
+    right: 800px;
+}
+
+.logo img{
+    margin-right: 50px;
+}
